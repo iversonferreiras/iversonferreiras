@@ -1,6 +1,6 @@
  Olá, seja bem vindo 👋
 
-- 🔭 Busco trabalho como programador front-end
+<!--- 🔭 Busco trabalho como programador front-end-->
 - 🌱 Estudando JavaScript, Vue.JS e Node.JS
 - 😄 Pronouns: ele/dele 
 
