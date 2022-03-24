@@ -1,7 +1,7 @@
  Olá, seja bem vindo 👋
 
 <!--- 🔭 Busco trabalho como programador front-end-->
-- 📚 Cusrsando Sistems de Informação no IFMG - Sabará
+- 📚 Cursando Sistemas de Informação no IFMG - Sabará
 - 🌱 Estudando HTML, CSS, Java e JavaScript.
 - 😄 Pronouns: ele/dele 
 
