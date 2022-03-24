@@ -1,7 +1,8 @@
  Olá, seja bem vindo 👋
 
 <!--- 🔭 Busco trabalho como programador front-end-->
-- 🌱 Estudando JavaScript, Vue.JS e Node.JS
+- 📚 Cusrsando Sistems de Informação no IFMG - Sabará
+- 🌱 Estudando HTML, CSS, Java e JavaScript.
 - 😄 Pronouns: ele/dele 
 
 <div align="center">
