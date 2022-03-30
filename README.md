@@ -3,7 +3,6 @@
 <!--- 🔭 Busco trabalho como programador front-end-->
 - 📚 Cursando Sistemas de Informação no IFMG - Sabará
 - 🌱 Estudando HTML, CSS, Java e JavaScript.
-- 😄 Pronouns: ele/dele 
 
 <div align="center">
   <a href="https://github.com/iversonferreiras">
