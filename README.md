@@ -1,5 +1,4 @@
 <h1 align="center">Olá, seja bem vindo 👋</h1>
-<hr>
 <!--- 🔭 Busco trabalho como programador front-end-->
 
 - 📌 Atualmente focado no desenvolvimento front-end. 
