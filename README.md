@@ -3,7 +3,7 @@
 
 - 📌 Atualmente focado no desenvolvimento front-end. 
 
-- 📚 Cursando Sistemas de Informação no IFMG - Sabará
+- 📚 Cursando Sistemas de Informação no IFMG.
 
 - 🌱 Estudando HTML, CSS, JavaScript e Node.Js.
 
