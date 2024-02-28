@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem vindo 👋</h1>
 <!--- 🔭 Busco trabalho como programador front-end-->
 
-- 📌 Atualmente focado no desenvolvimento front-end. 
+<!---- 📌 Atualmente focado no desenvolvimento front-end. -->
 
 - 📚 Cursando Sistemas de Informação no IFMG.
 
