@@ -3,9 +3,9 @@
 
 <!---- 📌 Atualmente focado no desenvolvimento front-end. -->
 
-- 📚 Cursando Sistemas de Informação no IFMG.
-
-- 🌱 Estudando HTML, CSS, JavaScript e Node.Js.
+- 🌱 Estudando Java, HTML, CSS e JavaScript.
+  
+- 📚 Estudante de Sistemas de Informação no IFMG.
 
 <div align="center">
   <a href="https://github.com/iversonferreiras">
